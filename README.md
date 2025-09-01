@@ -46,8 +46,3 @@ This repository contains **two versions of a Pong Game** built with **JavaFX**:
 - JDK 8 or above  
 - JavaFX SDK (for JDK 8, must add manually in NetBeans)  
 - NetBeans IDE 17
-
-## 📸 Screenshots
-_Add screenshots or GIFs of gameplay and menus here._      OOOOOOOOOOOOOOOOOOOOOOO
-
----
